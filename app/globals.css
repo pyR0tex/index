@@ -1,0 +1,15 @@
+@import "tailwindcss";
+/* Basic global tweaks */
+html,
+body {
+  height: 100%;
+}
+
+body {
+  /* we already set most styling in layout; keep this light */
+}
+
+/* Optional: smooth scrolling for in-page links later */
+html {
+  scroll-behavior: smooth;
+}
